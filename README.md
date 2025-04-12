@@ -1,3 +1,8 @@
+SCreencast:
+https://asu.zoom.us/rec/share/STGpt5iINraPw-MC7aK_okMyMLQ3AunQybudlOZ5i-dUk7KB9OEIxW-f07j2i-H7.-dEJT67yIvJ1cCMm 
+password: 1BPkh$3N
+
+below is code‘s Readme
 # HW1CSE360
 # **README**
 
